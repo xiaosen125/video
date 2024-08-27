@@ -1,0 +1,5 @@
+{
+  "ignore": ["map.json"],
+  "watch": ["*.js"],
+  "ext": "js"
+}
